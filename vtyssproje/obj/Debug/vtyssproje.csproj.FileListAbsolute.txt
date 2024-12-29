@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\vtyssproje\vtyssproje\bin\Debug\vtyssproje.exe
+C:\Users\HP\source\repos\vtyssproje\vtyssproje\bin\Debug\vtyssproje.exe.config
+C:\Users\HP\source\repos\vtyssproje\vtyssproje\obj\Debug\vtyssproje.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\vtyssproje\vtyssproje\obj\Debug\vtyssproje.Form1.resources
+C:\Users\HP\source\repos\vtyssproje\vtyssproje\obj\Debug\vtyssproje.Form2.resources
+C:\Users\HP\source\repos\vtyssproje\vtyssproje\obj\Debug\vtyssproje.Form3.resources
+C:\Users\HP\source\repos\vtyssproje\vtyssproje\obj\Debug\vtyssproje.Form4.resources
+C:\Users\HP\source\repos\vtyssproje\vtyssproje\obj\Debug\vtyssproje.Properties.Resources.resources
+C:\Users\HP\source\repos\vtyssproje\vtyssproje\obj\Debug\vtyssproje.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\vtyssproje\vtyssproje\obj\Debug\vtyssproje.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\vtyssproje\vtyssproje\obj\Debug\vtyssproje.exe
+C:\Users\HP\source\repos\vtyssproje\vtyssproje\obj\Debug\vtyssproje.pdb
+C:\Users\HP\source\repos\vtyssproje\vtyssproje\bin\Debug\vtyssproje.pdb
+C:\Users\HP\source\repos\vtyssproje\vtyssproje\obj\Debug\vtyssproje.Form5.resources
+C:\Users\HP\source\repos\vtyssproje\vtyssproje\obj\Debug\vtyssproje.Form6.resources

@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\vtyssproje\vtyssproje\bin\Release\vtyssproje.exe.config
+C:\Users\HP\source\repos\vtyssproje\vtyssproje\bin\Release\vtyssproje.exe
+C:\Users\HP\source\repos\vtyssproje\vtyssproje\bin\Release\vtyssproje.pdb
+C:\Users\HP\source\repos\vtyssproje\vtyssproje\obj\Release\vtyssproje.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\vtyssproje\vtyssproje\obj\Release\vtyssproje.Form1.resources
+C:\Users\HP\source\repos\vtyssproje\vtyssproje\obj\Release\vtyssproje.Form2.resources
+C:\Users\HP\source\repos\vtyssproje\vtyssproje\obj\Release\vtyssproje.Form3.resources
+C:\Users\HP\source\repos\vtyssproje\vtyssproje\obj\Release\vtyssproje.Form4.resources
+C:\Users\HP\source\repos\vtyssproje\vtyssproje\obj\Release\vtyssproje.Properties.Resources.resources
+C:\Users\HP\source\repos\vtyssproje\vtyssproje\obj\Release\vtyssproje.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\vtyssproje\vtyssproje\obj\Release\vtyssproje.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\vtyssproje\vtyssproje\obj\Release\vtyssproje.exe
+C:\Users\HP\source\repos\vtyssproje\vtyssproje\obj\Release\vtyssproje.pdb
