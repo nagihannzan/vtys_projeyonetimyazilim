@@ -46,9 +46,8 @@
             this.dgvProjects.RowTemplate.Height = 24;
             this.dgvProjects.Size = new System.Drawing.Size(757, 530);
             this.dgvProjects.TabIndex = 0;
-            // 
-            // btnAddProject
-            // 
+            
+             
             this.btnAddProject.Location = new System.Drawing.Point(843, 555);
             this.btnAddProject.Name = "btnAddProject";
             this.btnAddProject.Size = new System.Drawing.Size(138, 23);
